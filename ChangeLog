@@ -1,7 +1,9 @@
 ChangeLog for package sylly.en
 
-changes in version 0.1-1 (2017-06-01)
+changes in version 0.1-1 (2017-06-10)
 changed:
   - initial public release
 old:
-  - hyph.en was completely replaced by a custom built pattern set in koRpus 0.04-17
+  - hyph.en was completely replaced by a custom built pattern set in koRpus
+    0.04-17
+
