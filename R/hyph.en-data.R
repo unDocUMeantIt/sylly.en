@@ -52,4 +52,10 @@
 #' [1] \url{http://tug.ctan.org/tex-archive/language/hyph-utf8/tex/generic/hyph-utf8/patterns/}
 #'
 #' [2] \url{http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt}
+#' @examples
+#' \dontrun{
+#' library(sylly.en)
+#' sampleText <- c("This", "is", "a", "rather", "stupid", "demonstration")
+#' hyphen(sampleText, hyph.pattern="en")
+#' }
 NULL

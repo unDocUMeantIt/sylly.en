@@ -29,6 +29,13 @@ Hyphenation patterns for English to be used by \code{\link[sylly:hyphen]{hyphen}
 These data objects are not really intended to be used directly, but rather to be consulted
 by the \code{hyphen()} function without further user interaction.
 }
+\examples{
+\dontrun{
+library(sylly.en)
+sampleText <- c("This", "is", "a", "rather", "stupid", "demonstration")
+hyphen(sampleText, hyph.pattern="en")
+}
+}
 \references{
 Liang, F.M. (1983). \emph{Word Hy-phen-a-tion by Com-put-er}.
   Dissertation, Stanford University, Dept. of Computer Science.
