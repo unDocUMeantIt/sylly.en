@@ -22,3 +22,5 @@ Description: GNU R package "Language Support for 'sylly' Package:
  (<http://korpusml.reaktanz.de>).
 Homepage: http://reaktanz.de/?c=hacking&s=koRpus
 Suggests:
+Breaks: r-other-reaktanz-sylly.en (<< 0.1-2)
+Replaces: r-other-reaktanz-sylly.en (<< 0.1-2)

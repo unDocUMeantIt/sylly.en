@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 # debian/rules file for the Debian/GNU Linux r-other-undocumeantit-sylly.en package
-# Copyright 2017 by Meik Michalke <meik.michalke@hhu.de>
+# Copyright 2018 by Meik Michalke <meik.michalke@hhu.de>
 
 debRreposname := other-undocumeantit
 

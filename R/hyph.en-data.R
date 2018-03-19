@@ -1,4 +1,4 @@
-# Copyright 2017 Meik Michalke <meik.michalke@hhu.de>
+# Copyright 2017-2018 Meik Michalke <meik.michalke@hhu.de>
 #
 # This file is part of the R package sylly.en.
 #
@@ -53,9 +53,7 @@
 #'
 #' [2] \url{http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt}
 #' @examples
-#' \dontrun{
 #' library(sylly.en)
 #' sampleText <- c("This", "is", "a", "rather", "stupid", "demonstration")
 #' hyphen(sampleText, hyph.pattern="en")
-#' }
 NULL

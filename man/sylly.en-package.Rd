@@ -12,7 +12,7 @@ Language Support for 'sylly' Package: English.
 Package: \tab sylly.en\cr
 Type: \tab Package\cr
 Version: \tab 0.1-3\cr
-Date: \tab 2017-10-03\cr
+Date: \tab 2018-03-19\cr
 Depends: \tab R (>= 3.1),sylly\cr
 Encoding: \tab UTF-8\cr
 License: \tab GPL (>= 3)\cr
